@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Ecolicch/Documents/GitHub/ColicchioG300Final/PlatformerFinal/Content/Input/IMC_Default.uasset",
+				"C:/Users/Ecolicch/Documents/GitHub/ColicchioG300Final/PlatformerFinal/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset",
+				"C:/Users/Ecolicch/Documents/GitHub/ColicchioG300Final/PlatformerFinal/Content/Input/Actions/IA_FlipCamera.uasset",
+				"C:/Users/Ecolicch/Documents/GitHub/ColicchioG300Final/PlatformerFinal/Content/Variant_SideScroller/Input/IMC_SideScroller.uasset",
+				"C:/Users/Ecolicch/Documents/GitHub/ColicchioG300Final/PlatformerFinal/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/7/S0/XPL5LSCZGK16UQOD4A1X0J.uasset"
+			]
+		}
+	]
+}
