@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/B351 Repository/ColicchioG300Final/PlatformerFinal/Content/__ExternalActors__/Variant_SideScroller/Lvl_SideScrolling/C/QV/3VCZ2V0UDZ1IP5ABZTXO9H.uasset",
+				"G:/B351 Repository/ColicchioG300Final/PlatformerFinal/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCameraManager.uasset",
+				"G:/B351 Repository/ColicchioG300Final/PlatformerFinal/Content/Variant_SideScroller/Blueprints/Items/BP_GoalPost.uasset",
 				"C:/Users/Ecolicch/Documents/GitHub/ColicchioG300Final/PlatformerFinal/Content/Input/IMC_Default.uasset",
 				"C:/Users/Ecolicch/Documents/GitHub/ColicchioG300Final/PlatformerFinal/Content/Variant_SideScroller/Blueprints/BP_SideScrollingCharacter.uasset",
 				"C:/Users/Ecolicch/Documents/GitHub/ColicchioG300Final/PlatformerFinal/Content/Input/Actions/IA_FlipCamera.uasset",
